@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adesuyi Fisola</h1>
-<h3 align="center">I'm full-stack back-end passionate developer who loves exploring new field. I am passionate about writing code and exercising.</h3>
+<h3 align="center">I'm a full-stack back-end passionate developer who loves exploring new field. I am passionate about writing code and exercising.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
