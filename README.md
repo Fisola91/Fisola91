@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails/JavaScript**
 
-- 💬 Ask me about anything related to**Ruby on Rails/JavaScript**
+- 💬 Ask me about anything related to **Ruby on Rails/JavaScript**
 
 - 📫 How to reach me **adesuyifisola@gmail.com**
 
