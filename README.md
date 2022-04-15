@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
-- 🔭 I’m currently working on **<p>Linkedin_clone</p>**
+- 🔭 I’m currently working on **Linkedin_clone**
 
 - 🌱 I’m currently learning **Ruby on Rails/React**
 
