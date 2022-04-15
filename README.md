@@ -1,18 +1,17 @@
 <h2 align="left">Hi 👋, I'm Fisola</h2>
-<h4 align="left">I'm a full-stack developer who just completed a coding bootcamp at <a href="https://www.lewagon.com/" target="blank">Le Wagon</a>. I presently volunteer for <a href="https://www.crowdfrica.org/" target="blank">crowdfrica</a> as a developer to improve and save lives across Africa. I am passionate about writing code and exercising.</h4>
+<h4 align="left">I'm a full-stack developer who just completed a coding bootcamp at <a href="https://www.lewagon.com/" target="blank">Le Wagon</a>. I am passionate about writing code and exercising.</h4>
 <h4 align="left"> I am currently open to fulltime/partime employment. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
 - 🔭 I’m currently working on **<a href="https://www.crowdfrica.org/" target="blank">crowdfrica</a>**
 
-- 🌱 I’m currently learning **Ruby on Rails/JavaScript**
+- 🌱 I’m currently learning **Ruby on Rails/React**
 
-- 💬 Ask me about anything related to **Ruby on Rails/JavaScript**
+- 💬 Ask me about anything related to **Ruby on Rails/React**
 
 - 📫 How to reach me **adesuyifisola@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h2 align="left"><u><strong>Social</strong></u></h2>
 <h4 align="left">You can find me on the following social media</h4>
