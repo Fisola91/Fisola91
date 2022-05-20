@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **clothes_order**
 
-- 🌱 I’m currently learning **Ruby on Rails/RSpec**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 💬 Ask me about anything related to **Ruby on Rails/RSpec**
+- 💬 Ask me about anything related to **Ruby on Rails**
 
 - 📫 How to reach me **adesuyifisola@gmail.com**
 
