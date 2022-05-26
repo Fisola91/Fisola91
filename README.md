@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋, I'm Fisola</h2>
-<h4 align="left">I'm a full-stack developer who just completed a coding bootcamp at <a href="https://www.lewagon.com/" target="blank">Le Wagon</a>. I am passionate about writing code and exercising.</h4>
-<h4 align="left"> I am currently open to fulltime/partime employment. </h4>
+<h4 align="left">I transitioned into software engineering upon realizing my profound interest in programming. Following some self-education, I enrolled in a web development Bootcamp at <a href="https://www.lewagon.com/" target="blank">Le Wagon</a>, which was an exciting challenge to learn and improve my skills in producing high-quality web applications consistently.
+<h4 align="left"> I currently work as an intern at Zeroth. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
-- 🔭 I’m currently working on **clothes_order**
+- 🔭 I’m currently working on **Guide to conflict resolution services**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails/RSpec**
 
 - 💬 Ask me about anything related to **Ruby on Rails**
 
