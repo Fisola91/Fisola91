@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Fisola</h2>
-<h4 align="left">I transitioned into software engineering upon realizing my profound interest in programming. Following some self-education, I enrolled in a web development Bootcamp at <a href="https://www.lewagon.com/" target="blank">Le Wagon</a>, which was an exciting challenge to learn and improve my skills in producing high-quality web applications consistently.
+
 <h4 align="left"> I currently work as an intern at Zeroth. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
