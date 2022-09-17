@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Guide to conflict resolution services**
 
-- 🌱 I’m currently learning **Ruby on Rails/RSpec**
+- 🌱 I’m currently learning ** Ruby, Ruby on Rails, RSpec, Sinatra**
 
 - 💬 Ask me about anything related to **Ruby on Rails**
 
