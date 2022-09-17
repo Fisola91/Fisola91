@@ -1,12 +1,14 @@
 <h2 align="left">Hi 👋, I'm Fisola</h2>
 
-<h4 align="left"> I currently work as an intern at Zeroth. </h4>
+<h4 align="left"> Currently, I am an intern at Zeroth. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
-- 🔭 I’m currently working on **Guide to conflict resolution services**
+- 🚀 completed the intensive Web Development Bootcamp at Le Wagon in 2022
 
-- 🌱 I’m currently learning ** Ruby, Ruby on Rails, RSpec, Sinatra**
+- 🔭 I’m currently working on **mastermind-game**
+
+- 🌱 I’m currently focusing on ** Ruby, Ruby on Rails, RSpec, Sinatra**
 
 - 💬 Ask me about anything related to **Ruby on Rails**
 
