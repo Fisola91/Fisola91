@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Fisola</h2>
 
-<h4 align="left"> Currently, I am an intern at Zeroth. </h4>
+<h4 align="left"> I am an intern at Zeroth. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
