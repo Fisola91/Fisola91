@@ -18,7 +18,7 @@
 <h2 align="left"><u><strong>Social</strong></u></h2>
 <h4 align="left">You can find me on the following social media</h4>
 <p align="left">
-<a href="https://linkedin.com/in/fisola adesuyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fisola adesuyi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fisolaadesuyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fisola adesuyi" height="30" width="40" /></a>
 <a href="https://instagram.com/adwelt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adwelt" height="30" width="40" /></a>
 </p>
 
