@@ -5,7 +5,7 @@
 - 👀 I’m interested in building and scaling web Solutions
 
 - 🔭 Most recent project:
-      <ul><li><a href="https://mastermind-game.fly.dev/">mastermind</a></li></ul>
+      <ul><li><a href="https://mastermind-game.fly.dev/">mastermind game</a></li></ul>
       
 - 🌱  I’m currently working on open source projects.
 
