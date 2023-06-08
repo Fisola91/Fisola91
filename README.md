@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
-- 🚀 completed the intensive Web Development Bootcamp at Le Wagon in 2022
+- 👀 I’m interested in building and scaling web Solutions
 
-- 🔭 I’m currently working on **mastermind-game**
+- 🔭 Most recent project:
+      <ul><li><a href="https://mastermind-game.fly.dev/">mastermind</a></li></ul>
 
 - 🌱 I’m currently focusing on ** Ruby, Ruby on Rails, RSpec, Sinatra**
 
