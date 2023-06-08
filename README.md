@@ -1,20 +1,17 @@
 <h2 align="left">Hi 👋, I'm Fisola</h2>
 
-<h4 align="left"> I am an intern at Zeroth. </h4>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fisola91&label=Profile%20views&color=0e75b6&style=flat" alt="fisola91" /> </p>
 
 - 👀 I’m interested in building and scaling web Solutions
 
 - 🔭 Most recent project:
       <ul><li><a href="https://mastermind-game.fly.dev/">mastermind</a></li></ul>
+      
+- 🌱  I’m currently working on open source projects.
 
-- 🌱 I’m currently focusing on ** Ruby, Ruby on Rails, RSpec, Sinatra**
-
-- 💬 Ask me about anything related to **Ruby on Rails**
+- 👯 I’m looking to collaborate on amazing projects
 
 - 📫 How to reach me **adesuyifisola@gmail.com**
-
 
 <h2 align="left"><u><strong>Social</strong></u></h2>
 <h4 align="left">You can find me on the following social media</h4>
