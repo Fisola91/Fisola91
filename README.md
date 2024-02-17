@@ -4,8 +4,13 @@
 
 - 👀 I’m interested in building and scaling web Solutions
 
-- 🔭 Most recent project:
-      <ul><li><a href="https://mastermind-game.fly.dev/">mastermind game</a></li></ul>
+- 🔭 Deployed projects:
+      <ul>
+            <li><a href="https://sales-documentation.fly.dev/">Sales Documentation</a></li>
+            <li><a href="https://blind-8.fly.dev/">Blind8 (WebApp)</a></li>
+            <li><a href="https://mastermind-game.fly.dev/">mastermind game</a></li>
+            <li><a href="https://daily-fairy-app.fly.dev/">Daily Fairy (On-going)</a></li>
+      </ul>
       
 - 🌱  I’m currently working on open source projects.
 
