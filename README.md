@@ -8,7 +8,7 @@
       <ul>
             <li><a href="https://adesuyifisola.netlify.app/">My portfolio</a></li>
             <li><a href="https://sales-documentation.fly.dev/">Sales Documentation</a></li>
-            <li><a href="https://blind-8.fly.dev/">Blind8 (WebApp)</a></li>
+            <li><a href="https://blind-8.fly.dev/">Blind8 (WebApp only)</a></li>
             <li><a href="https://mastermind-game.fly.dev/">mastermind game</a></li>
       </ul>
       
